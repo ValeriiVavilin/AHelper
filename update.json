@@ -1,4 +1,5 @@
 {
   "latest_number": 123,
-  "latest": "2.1.1"
+  "latest": "2.1.1",
+  "delay": 1
 }
